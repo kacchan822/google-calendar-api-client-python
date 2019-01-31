@@ -14,8 +14,8 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 
 setup(
-    name='python-google-calendar-api',
-    url='https://github.com/kacchan822/python-google-calendar-api',
+    name='google-calendar-api-client-python',
+    url='https://github.com/kacchan822/google-calendar-api-client-python',
     version='0.1.0',
     description='Google Calendar api client for python3',
     long_description=README,
